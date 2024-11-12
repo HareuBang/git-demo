@@ -1,6 +1,7 @@
 category: java
-lectures: Ko
-related:
+title: java level2
+lectures: Hong
+related: node.js
 
 - spring
 - MVC
