@@ -1,7 +1,6 @@
 category: java
-title: java advanced
-lectures: Hong
-related: node.js
+lectures: Ko
+related:
 
 - spring
 - MVC
