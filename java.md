@@ -11,3 +11,4 @@ related: node.js
 - springboot
 - exception
 - inherit
+- extends
