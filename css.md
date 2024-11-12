@@ -1,6 +1,6 @@
 category: css
 lectures: Cho
-related:
+related: Polymorphism
 
 - html
 - xcss
