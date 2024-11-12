@@ -1,5 +1,5 @@
 category: javascript
-lectures: Jin
+lectures: ko
 related:
 
 - xcss
